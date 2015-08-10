@@ -1,7 +1,7 @@
 jsui
 ====
 
-1.5k jsui lib
+1.5k uijs lib
 
 create components with elify, eventify and valuable
 ``` javascript
