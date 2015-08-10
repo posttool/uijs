@@ -1,4 +1,4 @@
-jsui
+uijs
 ====
 
 1.5k uijs lib
